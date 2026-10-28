@@ -8,7 +8,7 @@ Static website source is in `docs/`:
 
 ## Before publishing
 
-Replace `SUPPORT_EMAIL` in the support and privacy pages with the developer's confirmed public support address. These files are drafts until that contact is supplied.
+Support and privacy contact: fbt@outbacklifting.com.au. Website content is ready for hosting; verify the live URLs after enabling Pages.
 
 Enable GitHub Pages under Settings → Pages, choose Deploy from a branch, then `main` and `/docs`. Keep the repository's current privacy setting. GitHub Pages for private repositories requires an eligible paid plan. Do not make the repository public without the owner's explicit authorization.
 
